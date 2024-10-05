@@ -1,0 +1,39 @@
+{
+    "Brdy":[
+        {
+            "id":1,
+            "name":"Deepa",
+            "age":"23",
+            "image":"https://media.istockphoto.com/id/1289220545/photo/beautiful-woman-smiling-with-crossed-arms.jpg?s=1024x1024&w=is&k=20&c=wobHCIC8ARiLxB4rmznE6JixLVRNtHHOzP366loetck="
+
+        },
+        {
+            "id":2,
+            "name":"Alice",
+            "age":"23",
+            "image":"https://cdn.pixabay.com/photo/2018/01/15/09/17/woman-3083516_1280.jpg"
+
+        },
+        {
+            "id":3,
+            "name":"Bob",
+            "age":"23",
+            "image":"https://cdn.pixabay.com/photo/2016/11/21/12/42/beard-1845166_1280.jpg"
+
+        },
+        {
+            "id":4,
+            "name":"Merk",
+            "age":"23",
+            "image":"https://cdn.pixabay.com/photo/2019/11/26/17/48/girl-4655079_1280.jpg"
+
+        },
+        {
+            "id":5,
+            "name":"DIleep",
+            "age":"23",
+            "image":"https://cdn.pixabay.com/photo/2021/01/25/11/29/woman-5948094_1280.jpg"
+
+        }
+    ]
+}

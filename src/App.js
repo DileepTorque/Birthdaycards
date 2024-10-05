@@ -1,25 +1,48 @@
-import logo from './logo.svg';
-import './App.css';
+// import React from 'react';
+// import User from './Adduser';
+// import { BrowserRouter, Route, Routes } from 'react-router-dom';
 
+// // import Myapi from './Myapi';
+// import Code from './Table';
+// import Updateuser from './Update';
+
+// function App() {
+//   return (
+//    <>
+    
+//     <BrowserRouter>
+//     <Routes>
+//       <Route path='/' element={ <Code/>}/>
+//       <Route path='/Click' element={ <User/>}/>
+//       <Route path="/Update/:id" element={<Updateuser/>}/>
+//     </Routes>
+//     </BrowserRouter>
+//    </>
+
+//   )
+// }
+
+// export default App;
+//rafce
+//rafe
+//rfc
+//rfce
+//rcc
+//rce
+//imr
+import React from 'react';
+import Birthday from './Birthday';
+import Openwheather from './Openwheather';
+// import Tiktak from './Tiktak';
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+   <>
+     {/* <Tiktak/> */}
+     <Birthday/>
+     {/* <Openwheather/> */}
+   </>
+
+  )
 }
 
 export default App;
